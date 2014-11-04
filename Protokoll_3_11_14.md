@@ -1,17 +1,16 @@
 Protokoll 3.11.14
-----
 
-Software Engineering Projekt Infosäule                                                                             1 Seite  (Protokollführer: Nicole)
-Anwesend:     Oli, Klaus, Sven,       Nico, Marc, Tino, Nicole
+**Software Engineering Projekt Infosäule**                                                                             (Protokollführer: Nicole)
+Anwesend: Oli, Klaus, Sven, Nico, Marc, Tino, Nicole
 1)	Gemeinsame Lösung der Aufgabe 1.5 (teilweise)
 1.1)	Wer arbeitet mit dem Software-System: 
 1.2)	Welcher Bentuzer benötigt welche Funktionen:
 1.3)	Welche Informationen müssen zu einem Benutzer gespeichert werden, um einen Geschäftsprozess abzuwickeln?  ZB: Einstellen von Informationen
 
 Wir gehen jetzt für ein Produkt für eine Unternehmensgröße ähnlich unserer Hochschule aus. Damit gibt es:
-Akteur	Funktion	Nötige Attribute
-Besucher	
-*	Informationen auf Infosäule lesen	
+
+Akteur -	Funktion -	Nötige Attribute - Besucher <- Tabelle machen?
+
 **Mitarbeiter**
 *	Informationen auf Infosäule lesen 
 *	Informationen einstellen:
@@ -21,7 +20,8 @@ Besucher
 *	Information terminieren (von wann bis wann soll sie gezeigt werden)
 *	Information aus dem System löschen	Für „Einstellen von Informationen“:
 *	Eindeutige Identifizierung (z.B. Personalnummer)
-*	Rolle (für Berechtigungen)
+*	Rolle 
+
 **Redaktion/Content Manager**
 *	Hochgeladene Informationen zur Anzeige freischalten
 *	Priorität angeben (prüfen)
@@ -41,6 +41,8 @@ Besucher
 -	Inhalte auf mobilen Endgeräten anzeigen
 -	…
 -	Sonst fielen uns nur noch Personen – oder Kaffee-Tracker ein…..
+
+----
 
 1.5)	Was ist ein Anwendunggsfall (aus OMG Unified Modeling LanguageTM (OMG UML), Superstructure Version 2.4.1):
 
