@@ -1,6 +1,8 @@
 Protokoll 3.11.14
 
-**Software Engineering Projekt Infosäule**                                                                             (Protokollführer: Nicole)
+**Software Engineering Projekt Infosäule** 
+
+(Protokollführer: Nicole)
 Anwesend: Oli, Klaus, Sven, Nico, Marc, Tino, Nicole
 1)	Gemeinsame Lösung der Aufgabe 1.5 (teilweise)
 1.1)	Wer arbeitet mit dem Software-System: 
