@@ -1,4 +1,7 @@
-Protokoll 3.11.14                                                             Software Engeneering Projekt Infosäule                                                                             1 Seite  (Protokollführer: Nicole)
+Protokoll 3.11.14
+----
+
+Software Engineering Projekt Infosäule                                                                             1 Seite  (Protokollführer: Nicole)
 Anwesend:     Oli, Klaus, Sven,       Nico, Marc, Tino, Nicole
 1)	Gemeinsame Lösung der Aufgabe 1.5 (teilweise)
 1.1)	Wer arbeitet mit dem Software-System: 
@@ -7,30 +10,28 @@ Anwesend:     Oli, Klaus, Sven,       Nico, Marc, Tino, Nicole
 
 Wir gehen jetzt für ein Produkt für eine Unternehmensgröße ähnlich unserer Hochschule aus. Damit gibt es:
 Akteur	Funktion	Nötige Attribute
-Besucher	•	Informationen auf Infosäule lesen	
-Mitarbeiter	•	Informationen auf Infosäule lesen 
-•	Informationen einstellen:
-•	Sich im System anmelden
-•	Informationen als Datei hochladen
-•	Priorität angeben
-•	Information terminieren (von wann bis wann soll sie gezeigt werden)
-•	Information aus dem System löschen	Für „Einstellen von Informationen“:
-•	Eindeutige Identifizierung (z.B. Personalnummer)
-•	Rolle (für Berechtigungen)
-Redaktion/Content Manager	•	Hochgeladene Informationen zur Anzeige freischalten
-•	Priorität angeben (prüfen)
-•	Informationen terminieren (prüfen)
-•	Informationen aus dem System löschen	
-Administrator	•	Berechtigungen für Nutzer vergeben
-•	System warten	
+Besucher	
+*	Informationen auf Infosäule lesen	
+**Mitarbeiter**
+*	Informationen auf Infosäule lesen 
+*	Informationen einstellen:
+*	Sich im System anmelden
+*	Informationen als Datei hochladen
+*	Priorität angeben
+*	Information terminieren (von wann bis wann soll sie gezeigt werden)
+*	Information aus dem System löschen	Für „Einstellen von Informationen“:
+*	Eindeutige Identifizierung (z.B. Personalnummer)
+*	Rolle (für Berechtigungen)
+**Redaktion/Content Manager**
+*	Hochgeladene Informationen zur Anzeige freischalten
+*	Priorität angeben (prüfen)
+*	Informationen terminieren (prüfen)
+*	Informationen aus dem System löschen	
+**Administrator**	
+*	Berechtigungen für Nutzer vergeben
+*	System warten	
 
-
-
-
-
-
-
-(Protokoll 3.11.14,  Seite 2)
+----
 
 1.4)	Fünf Funktionen, die im Szenario nicht genannt wurden, die aber benötigt werden, um heutigen Anforderungen zu entsprechen:
 (Fanden wir schwierig zu beantworten -> nochmal nachfragen)
@@ -59,10 +60,7 @@ Extend-Beziehung: Use-Case(A) kann durch Use-Case(B) erweitert werden, muss aber
 Include-Beziehung: Use-Case(A) beinhaltet Use-Case(B)
 
 
-
-
-
-(Protokoll 3-11-14, Seite 3)
+----
 
 1.6)	Anwendungsfall-Beschreibung: nicht besprochen
 
